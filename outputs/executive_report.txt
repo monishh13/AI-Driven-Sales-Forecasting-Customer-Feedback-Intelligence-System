@@ -1,0 +1,23 @@
+Executive Summary
+-----------------
+The strongest forecasting model in this run is SARIMAX, with RMSE 11.300 and MAPE 4.03%.
+Current sales are 279.19, and the 30-day forecast ends at 284.79, indicating a projected change of 2.00%.
+Customer feedback is 57.40% positive and 22.80% negative.
+
+Interpretation
+--------------
+- The forecast suggests whether demand is rising, stable, or softening.
+- Positive feedback likely reflects product quality, service, or delivery improvements.
+- Negative feedback flags issues that can suppress future sales.
+
+Key Demand Drivers
+------------------
+Frequently observed terms in customer feedback:
+product, delivery, quality, purchase, satisfied, buy, love, amazing
+
+Recommended Actions
+-------------------
+1. Increase inventory for products or periods where the forecast shows higher demand.
+2. Investigate negative feedback themes and operational bottlenecks.
+3. Use promo and holiday effects in planning if SARIMAX performs best.
+4. Automate this report weekly for decision-makers.

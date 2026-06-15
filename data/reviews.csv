@@ -1,0 +1,1001 @@
+review_id,review_comment,true_sentiment
+1,Amazing product highly recommended,Positive
+2,Excellent service and friendly staff,Positive
+3,Refund process was very slow,Negative
+4,Very satisfied with the purchase,Positive
+5,Very satisfied with the purchase,Positive
+6,Love this product will buy again,Positive
+7,Poor quality and delayed delivery,Negative
+8,Poor quality and delayed delivery,Negative
+9,Great quality and fast delivery,Positive
+10,Very satisfied with the purchase,Positive
+11,Product received as expected,Neutral
+12,Very satisfied with the purchase,Positive
+13,Love this product will buy again,Positive
+14,Bad customer support experience,Negative
+15,It works fine,Neutral
+16,Very satisfied with the purchase,Positive
+17,Very satisfied with the purchase,Positive
+18,Bad customer support experience,Negative
+19,Average experience overall,Neutral
+20,Poor quality and delayed delivery,Negative
+21,Poor quality and delayed delivery,Negative
+22,Love this product will buy again,Positive
+23,Very disappointed with the product,Negative
+24,It works fine,Neutral
+25,Great quality and fast delivery,Positive
+26,Refund process was very slow,Negative
+27,Item arrived damaged,Negative
+28,Very satisfied with the purchase,Positive
+29,Love this product will buy again,Positive
+30,Poor quality and delayed delivery,Negative
+31,Amazing product highly recommended,Positive
+32,Product received as expected,Neutral
+33,Love this product will buy again,Positive
+34,Excellent service and friendly staff,Positive
+35,Great quality and fast delivery,Positive
+36,Love this product will buy again,Positive
+37,Great quality and fast delivery,Positive
+38,Amazing product highly recommended,Positive
+39,Product received as expected,Neutral
+40,Amazing product highly recommended,Positive
+41,Amazing product highly recommended,Positive
+42,Love this product will buy again,Positive
+43,Very satisfied with the purchase,Positive
+44,Refund process was very slow,Negative
+45,Bad customer support experience,Negative
+46,Poor quality and delayed delivery,Negative
+47,Delivery was okay,Neutral
+48,Product received as expected,Neutral
+49,Refund process was very slow,Negative
+50,Product received as expected,Neutral
+51,Very disappointed with the product,Negative
+52,Very satisfied with the purchase,Positive
+53,Very satisfied with the purchase,Positive
+54,Amazing product highly recommended,Positive
+55,Bad customer support experience,Negative
+56,Delivery was okay,Neutral
+57,Great quality and fast delivery,Positive
+58,The item matches the description,Neutral
+59,Very disappointed with the product,Negative
+60,The item matches the description,Neutral
+61,Excellent service and friendly staff,Positive
+62,Great quality and fast delivery,Positive
+63,Bad customer support experience,Negative
+64,Amazing product highly recommended,Positive
+65,Refund process was very slow,Negative
+66,Excellent service and friendly staff,Positive
+67,Very satisfied with the purchase,Positive
+68,Great quality and fast delivery,Positive
+69,Excellent service and friendly staff,Positive
+70,Product received as expected,Neutral
+71,Great quality and fast delivery,Positive
+72,Poor quality and delayed delivery,Negative
+73,Love this product will buy again,Positive
+74,Very disappointed with the product,Negative
+75,Love this product will buy again,Positive
+76,Love this product will buy again,Positive
+77,Delivery was okay,Neutral
+78,Amazing product highly recommended,Positive
+79,Bad customer support experience,Negative
+80,It works fine,Neutral
+81,Very disappointed with the product,Negative
+82,Very satisfied with the purchase,Positive
+83,Excellent service and friendly staff,Positive
+84,Love this product will buy again,Positive
+85,Refund process was very slow,Negative
+86,Product received as expected,Neutral
+87,It works fine,Neutral
+88,Very satisfied with the purchase,Positive
+89,Amazing product highly recommended,Positive
+90,Amazing product highly recommended,Positive
+91,Great quality and fast delivery,Positive
+92,Love this product will buy again,Positive
+93,Bad customer support experience,Negative
+94,Poor quality and delayed delivery,Negative
+95,Great quality and fast delivery,Positive
+96,Love this product will buy again,Positive
+97,Amazing product highly recommended,Positive
+98,Refund process was very slow,Negative
+99,Amazing product highly recommended,Positive
+100,Amazing product highly recommended,Positive
+101,Excellent service and friendly staff,Positive
+102,Amazing product highly recommended,Positive
+103,Love this product will buy again,Positive
+104,Love this product will buy again,Positive
+105,The item matches the description,Neutral
+106,The item matches the description,Neutral
+107,Bad customer support experience,Negative
+108,Product received as expected,Neutral
+109,The item matches the description,Neutral
+110,Bad customer support experience,Negative
+111,Very satisfied with the purchase,Positive
+112,Product received as expected,Neutral
+113,Very disappointed with the product,Negative
+114,Love this product will buy again,Positive
+115,It works fine,Neutral
+116,Excellent service and friendly staff,Positive
+117,Amazing product highly recommended,Positive
+118,Love this product will buy again,Positive
+119,Very satisfied with the purchase,Positive
+120,Amazing product highly recommended,Positive
+121,Item arrived damaged,Negative
+122,Love this product will buy again,Positive
+123,Excellent service and friendly staff,Positive
+124,Item arrived damaged,Negative
+125,It works fine,Neutral
+126,Product received as expected,Neutral
+127,It works fine,Neutral
+128,Love this product will buy again,Positive
+129,Love this product will buy again,Positive
+130,Bad customer support experience,Negative
+131,It works fine,Neutral
+132,It works fine,Neutral
+133,Very satisfied with the purchase,Positive
+134,Amazing product highly recommended,Positive
+135,Refund process was very slow,Negative
+136,Delivery was okay,Neutral
+137,Very disappointed with the product,Negative
+138,Product received as expected,Neutral
+139,Average experience overall,Neutral
+140,Delivery was okay,Neutral
+141,Average experience overall,Neutral
+142,Item arrived damaged,Negative
+143,Amazing product highly recommended,Positive
+144,Poor quality and delayed delivery,Negative
+145,Great quality and fast delivery,Positive
+146,It works fine,Neutral
+147,Amazing product highly recommended,Positive
+148,Bad customer support experience,Negative
+149,It works fine,Neutral
+150,Great quality and fast delivery,Positive
+151,Love this product will buy again,Positive
+152,Great quality and fast delivery,Positive
+153,Amazing product highly recommended,Positive
+154,Amazing product highly recommended,Positive
+155,Love this product will buy again,Positive
+156,The item matches the description,Neutral
+157,Average experience overall,Neutral
+158,Refund process was very slow,Negative
+159,Amazing product highly recommended,Positive
+160,Very disappointed with the product,Negative
+161,Refund process was very slow,Negative
+162,Excellent service and friendly staff,Positive
+163,Amazing product highly recommended,Positive
+164,Great quality and fast delivery,Positive
+165,It works fine,Neutral
+166,Average experience overall,Neutral
+167,It works fine,Neutral
+168,Poor quality and delayed delivery,Negative
+169,Refund process was very slow,Negative
+170,Love this product will buy again,Positive
+171,Product received as expected,Neutral
+172,Delivery was okay,Neutral
+173,Poor quality and delayed delivery,Negative
+174,Bad customer support experience,Negative
+175,Amazing product highly recommended,Positive
+176,Amazing product highly recommended,Positive
+177,Refund process was very slow,Negative
+178,Average experience overall,Neutral
+179,Amazing product highly recommended,Positive
+180,Very disappointed with the product,Negative
+181,Excellent service and friendly staff,Positive
+182,Delivery was okay,Neutral
+183,Excellent service and friendly staff,Positive
+184,Very satisfied with the purchase,Positive
+185,It works fine,Neutral
+186,It works fine,Neutral
+187,Love this product will buy again,Positive
+188,Product received as expected,Neutral
+189,Refund process was very slow,Negative
+190,Amazing product highly recommended,Positive
+191,Great quality and fast delivery,Positive
+192,Product received as expected,Neutral
+193,Very disappointed with the product,Negative
+194,Bad customer support experience,Negative
+195,Very disappointed with the product,Negative
+196,Very satisfied with the purchase,Positive
+197,Love this product will buy again,Positive
+198,Delivery was okay,Neutral
+199,Excellent service and friendly staff,Positive
+200,Excellent service and friendly staff,Positive
+201,Excellent service and friendly staff,Positive
+202,Poor quality and delayed delivery,Negative
+203,Poor quality and delayed delivery,Negative
+204,Excellent service and friendly staff,Positive
+205,Average experience overall,Neutral
+206,Great quality and fast delivery,Positive
+207,Excellent service and friendly staff,Positive
+208,Refund process was very slow,Negative
+209,The item matches the description,Neutral
+210,Product received as expected,Neutral
+211,Amazing product highly recommended,Positive
+212,Very disappointed with the product,Negative
+213,Very satisfied with the purchase,Positive
+214,It works fine,Neutral
+215,Great quality and fast delivery,Positive
+216,Very satisfied with the purchase,Positive
+217,Poor quality and delayed delivery,Negative
+218,Very disappointed with the product,Negative
+219,Bad customer support experience,Negative
+220,Very disappointed with the product,Negative
+221,Love this product will buy again,Positive
+222,Refund process was very slow,Negative
+223,Very satisfied with the purchase,Positive
+224,Very satisfied with the purchase,Positive
+225,Poor quality and delayed delivery,Negative
+226,Amazing product highly recommended,Positive
+227,Refund process was very slow,Negative
+228,Love this product will buy again,Positive
+229,Bad customer support experience,Negative
+230,It works fine,Neutral
+231,Very disappointed with the product,Negative
+232,Item arrived damaged,Negative
+233,Very satisfied with the purchase,Positive
+234,The item matches the description,Neutral
+235,Love this product will buy again,Positive
+236,Excellent service and friendly staff,Positive
+237,Great quality and fast delivery,Positive
+238,Product received as expected,Neutral
+239,The item matches the description,Neutral
+240,Great quality and fast delivery,Positive
+241,Very satisfied with the purchase,Positive
+242,Bad customer support experience,Negative
+243,Delivery was okay,Neutral
+244,Great quality and fast delivery,Positive
+245,Delivery was okay,Neutral
+246,Love this product will buy again,Positive
+247,Excellent service and friendly staff,Positive
+248,Refund process was very slow,Negative
+249,Refund process was very slow,Negative
+250,Excellent service and friendly staff,Positive
+251,Very satisfied with the purchase,Positive
+252,It works fine,Neutral
+253,Poor quality and delayed delivery,Negative
+254,Delivery was okay,Neutral
+255,Amazing product highly recommended,Positive
+256,Average experience overall,Neutral
+257,Poor quality and delayed delivery,Negative
+258,Very satisfied with the purchase,Positive
+259,Great quality and fast delivery,Positive
+260,Very disappointed with the product,Negative
+261,The item matches the description,Neutral
+262,Great quality and fast delivery,Positive
+263,Love this product will buy again,Positive
+264,Excellent service and friendly staff,Positive
+265,Great quality and fast delivery,Positive
+266,Amazing product highly recommended,Positive
+267,Refund process was very slow,Negative
+268,It works fine,Neutral
+269,Amazing product highly recommended,Positive
+270,Product received as expected,Neutral
+271,Love this product will buy again,Positive
+272,Very satisfied with the purchase,Positive
+273,The item matches the description,Neutral
+274,Excellent service and friendly staff,Positive
+275,Refund process was very slow,Negative
+276,Bad customer support experience,Negative
+277,Excellent service and friendly staff,Positive
+278,The item matches the description,Neutral
+279,Bad customer support experience,Negative
+280,Bad customer support experience,Negative
+281,Product received as expected,Neutral
+282,Very satisfied with the purchase,Positive
+283,Poor quality and delayed delivery,Negative
+284,Very disappointed with the product,Negative
+285,Amazing product highly recommended,Positive
+286,Love this product will buy again,Positive
+287,Bad customer support experience,Negative
+288,Very satisfied with the purchase,Positive
+289,Poor quality and delayed delivery,Negative
+290,Very satisfied with the purchase,Positive
+291,Very satisfied with the purchase,Positive
+292,Poor quality and delayed delivery,Negative
+293,Very disappointed with the product,Negative
+294,Love this product will buy again,Positive
+295,Poor quality and delayed delivery,Negative
+296,Great quality and fast delivery,Positive
+297,It works fine,Neutral
+298,The item matches the description,Neutral
+299,The item matches the description,Neutral
+300,Very disappointed with the product,Negative
+301,Refund process was very slow,Negative
+302,Item arrived damaged,Negative
+303,Love this product will buy again,Positive
+304,Refund process was very slow,Negative
+305,Great quality and fast delivery,Positive
+306,Amazing product highly recommended,Positive
+307,It works fine,Neutral
+308,Very satisfied with the purchase,Positive
+309,Delivery was okay,Neutral
+310,It works fine,Neutral
+311,Product received as expected,Neutral
+312,Love this product will buy again,Positive
+313,Amazing product highly recommended,Positive
+314,Excellent service and friendly staff,Positive
+315,Delivery was okay,Neutral
+316,The item matches the description,Neutral
+317,Average experience overall,Neutral
+318,Item arrived damaged,Negative
+319,Very disappointed with the product,Negative
+320,The item matches the description,Neutral
+321,Delivery was okay,Neutral
+322,Great quality and fast delivery,Positive
+323,Poor quality and delayed delivery,Negative
+324,Excellent service and friendly staff,Positive
+325,Delivery was okay,Neutral
+326,Excellent service and friendly staff,Positive
+327,Delivery was okay,Neutral
+328,Average experience overall,Neutral
+329,The item matches the description,Neutral
+330,Very satisfied with the purchase,Positive
+331,Amazing product highly recommended,Positive
+332,Amazing product highly recommended,Positive
+333,Amazing product highly recommended,Positive
+334,The item matches the description,Neutral
+335,Great quality and fast delivery,Positive
+336,Amazing product highly recommended,Positive
+337,Product received as expected,Neutral
+338,Love this product will buy again,Positive
+339,Item arrived damaged,Negative
+340,Love this product will buy again,Positive
+341,Amazing product highly recommended,Positive
+342,It works fine,Neutral
+343,Great quality and fast delivery,Positive
+344,Delivery was okay,Neutral
+345,Love this product will buy again,Positive
+346,Very satisfied with the purchase,Positive
+347,Product received as expected,Neutral
+348,Love this product will buy again,Positive
+349,Average experience overall,Neutral
+350,Product received as expected,Neutral
+351,Excellent service and friendly staff,Positive
+352,Average experience overall,Neutral
+353,Poor quality and delayed delivery,Negative
+354,The item matches the description,Neutral
+355,Item arrived damaged,Negative
+356,Very satisfied with the purchase,Positive
+357,It works fine,Neutral
+358,Excellent service and friendly staff,Positive
+359,The item matches the description,Neutral
+360,Average experience overall,Neutral
+361,Average experience overall,Neutral
+362,Love this product will buy again,Positive
+363,Amazing product highly recommended,Positive
+364,Bad customer support experience,Negative
+365,Item arrived damaged,Negative
+366,Amazing product highly recommended,Positive
+367,Item arrived damaged,Negative
+368,Amazing product highly recommended,Positive
+369,The item matches the description,Neutral
+370,Refund process was very slow,Negative
+371,Average experience overall,Neutral
+372,Average experience overall,Neutral
+373,The item matches the description,Neutral
+374,Love this product will buy again,Positive
+375,Love this product will buy again,Positive
+376,Product received as expected,Neutral
+377,Bad customer support experience,Negative
+378,Refund process was very slow,Negative
+379,Refund process was very slow,Negative
+380,Amazing product highly recommended,Positive
+381,Delivery was okay,Neutral
+382,It works fine,Neutral
+383,Poor quality and delayed delivery,Negative
+384,Average experience overall,Neutral
+385,Love this product will buy again,Positive
+386,Item arrived damaged,Negative
+387,Great quality and fast delivery,Positive
+388,Amazing product highly recommended,Positive
+389,Delivery was okay,Neutral
+390,The item matches the description,Neutral
+391,Poor quality and delayed delivery,Negative
+392,Excellent service and friendly staff,Positive
+393,Item arrived damaged,Negative
+394,Great quality and fast delivery,Positive
+395,Excellent service and friendly staff,Positive
+396,Poor quality and delayed delivery,Negative
+397,Bad customer support experience,Negative
+398,Item arrived damaged,Negative
+399,Product received as expected,Neutral
+400,Poor quality and delayed delivery,Negative
+401,Great quality and fast delivery,Positive
+402,Average experience overall,Neutral
+403,Item arrived damaged,Negative
+404,Average experience overall,Neutral
+405,Poor quality and delayed delivery,Negative
+406,Amazing product highly recommended,Positive
+407,Great quality and fast delivery,Positive
+408,Very satisfied with the purchase,Positive
+409,It works fine,Neutral
+410,Great quality and fast delivery,Positive
+411,Refund process was very slow,Negative
+412,Product received as expected,Neutral
+413,Excellent service and friendly staff,Positive
+414,Very satisfied with the purchase,Positive
+415,Amazing product highly recommended,Positive
+416,It works fine,Neutral
+417,Excellent service and friendly staff,Positive
+418,Very disappointed with the product,Negative
+419,Very satisfied with the purchase,Positive
+420,Refund process was very slow,Negative
+421,Product received as expected,Neutral
+422,Item arrived damaged,Negative
+423,Love this product will buy again,Positive
+424,Refund process was very slow,Negative
+425,It works fine,Neutral
+426,It works fine,Neutral
+427,Product received as expected,Neutral
+428,Very satisfied with the purchase,Positive
+429,Very disappointed with the product,Negative
+430,It works fine,Neutral
+431,Item arrived damaged,Negative
+432,It works fine,Neutral
+433,Bad customer support experience,Negative
+434,Bad customer support experience,Negative
+435,Very satisfied with the purchase,Positive
+436,Amazing product highly recommended,Positive
+437,Very satisfied with the purchase,Positive
+438,Poor quality and delayed delivery,Negative
+439,Very satisfied with the purchase,Positive
+440,Amazing product highly recommended,Positive
+441,Excellent service and friendly staff,Positive
+442,Amazing product highly recommended,Positive
+443,Item arrived damaged,Negative
+444,Very satisfied with the purchase,Positive
+445,Delivery was okay,Neutral
+446,Item arrived damaged,Negative
+447,The item matches the description,Neutral
+448,Love this product will buy again,Positive
+449,Excellent service and friendly staff,Positive
+450,Average experience overall,Neutral
+451,Very disappointed with the product,Negative
+452,Excellent service and friendly staff,Positive
+453,Great quality and fast delivery,Positive
+454,Very disappointed with the product,Negative
+455,Poor quality and delayed delivery,Negative
+456,Very satisfied with the purchase,Positive
+457,Amazing product highly recommended,Positive
+458,Great quality and fast delivery,Positive
+459,Very disappointed with the product,Negative
+460,Excellent service and friendly staff,Positive
+461,Very disappointed with the product,Negative
+462,Item arrived damaged,Negative
+463,Very satisfied with the purchase,Positive
+464,Very satisfied with the purchase,Positive
+465,Bad customer support experience,Negative
+466,Excellent service and friendly staff,Positive
+467,Excellent service and friendly staff,Positive
+468,Item arrived damaged,Negative
+469,Poor quality and delayed delivery,Negative
+470,Poor quality and delayed delivery,Negative
+471,Item arrived damaged,Negative
+472,Refund process was very slow,Negative
+473,Amazing product highly recommended,Positive
+474,Excellent service and friendly staff,Positive
+475,Item arrived damaged,Negative
+476,Refund process was very slow,Negative
+477,Very satisfied with the purchase,Positive
+478,Poor quality and delayed delivery,Negative
+479,Great quality and fast delivery,Positive
+480,Very satisfied with the purchase,Positive
+481,Product received as expected,Neutral
+482,Poor quality and delayed delivery,Negative
+483,Great quality and fast delivery,Positive
+484,Average experience overall,Neutral
+485,Poor quality and delayed delivery,Negative
+486,Item arrived damaged,Negative
+487,Amazing product highly recommended,Positive
+488,The item matches the description,Neutral
+489,Delivery was okay,Neutral
+490,Delivery was okay,Neutral
+491,Great quality and fast delivery,Positive
+492,Amazing product highly recommended,Positive
+493,Poor quality and delayed delivery,Negative
+494,Poor quality and delayed delivery,Negative
+495,Very satisfied with the purchase,Positive
+496,Great quality and fast delivery,Positive
+497,Delivery was okay,Neutral
+498,Great quality and fast delivery,Positive
+499,Love this product will buy again,Positive
+500,Excellent service and friendly staff,Positive
+501,Love this product will buy again,Positive
+502,Excellent service and friendly staff,Positive
+503,Very disappointed with the product,Negative
+504,Excellent service and friendly staff,Positive
+505,It works fine,Neutral
+506,Refund process was very slow,Negative
+507,It works fine,Neutral
+508,Poor quality and delayed delivery,Negative
+509,Amazing product highly recommended,Positive
+510,Item arrived damaged,Negative
+511,Product received as expected,Neutral
+512,It works fine,Neutral
+513,Poor quality and delayed delivery,Negative
+514,Product received as expected,Neutral
+515,Product received as expected,Neutral
+516,Amazing product highly recommended,Positive
+517,Refund process was very slow,Negative
+518,It works fine,Neutral
+519,Very disappointed with the product,Negative
+520,Very disappointed with the product,Negative
+521,Refund process was very slow,Negative
+522,Average experience overall,Neutral
+523,It works fine,Neutral
+524,Refund process was very slow,Negative
+525,Love this product will buy again,Positive
+526,Bad customer support experience,Negative
+527,Great quality and fast delivery,Positive
+528,Average experience overall,Neutral
+529,Love this product will buy again,Positive
+530,Love this product will buy again,Positive
+531,Delivery was okay,Neutral
+532,Item arrived damaged,Negative
+533,Delivery was okay,Neutral
+534,Very satisfied with the purchase,Positive
+535,Very satisfied with the purchase,Positive
+536,It works fine,Neutral
+537,Poor quality and delayed delivery,Negative
+538,Excellent service and friendly staff,Positive
+539,Product received as expected,Neutral
+540,The item matches the description,Neutral
+541,Excellent service and friendly staff,Positive
+542,Excellent service and friendly staff,Positive
+543,Product received as expected,Neutral
+544,Love this product will buy again,Positive
+545,Amazing product highly recommended,Positive
+546,Product received as expected,Neutral
+547,Average experience overall,Neutral
+548,Delivery was okay,Neutral
+549,It works fine,Neutral
+550,Great quality and fast delivery,Positive
+551,Love this product will buy again,Positive
+552,Very satisfied with the purchase,Positive
+553,Love this product will buy again,Positive
+554,Love this product will buy again,Positive
+555,Bad customer support experience,Negative
+556,Poor quality and delayed delivery,Negative
+557,Amazing product highly recommended,Positive
+558,Item arrived damaged,Negative
+559,Excellent service and friendly staff,Positive
+560,Item arrived damaged,Negative
+561,Great quality and fast delivery,Positive
+562,Amazing product highly recommended,Positive
+563,Amazing product highly recommended,Positive
+564,Very satisfied with the purchase,Positive
+565,Item arrived damaged,Negative
+566,Poor quality and delayed delivery,Negative
+567,Amazing product highly recommended,Positive
+568,Very disappointed with the product,Negative
+569,Excellent service and friendly staff,Positive
+570,Love this product will buy again,Positive
+571,Average experience overall,Neutral
+572,Love this product will buy again,Positive
+573,Refund process was very slow,Negative
+574,Love this product will buy again,Positive
+575,Excellent service and friendly staff,Positive
+576,Refund process was very slow,Negative
+577,Great quality and fast delivery,Positive
+578,Very disappointed with the product,Negative
+579,Refund process was very slow,Negative
+580,Product received as expected,Neutral
+581,It works fine,Neutral
+582,Refund process was very slow,Negative
+583,Very disappointed with the product,Negative
+584,Great quality and fast delivery,Positive
+585,Poor quality and delayed delivery,Negative
+586,Poor quality and delayed delivery,Negative
+587,Poor quality and delayed delivery,Negative
+588,Item arrived damaged,Negative
+589,Love this product will buy again,Positive
+590,Excellent service and friendly staff,Positive
+591,Amazing product highly recommended,Positive
+592,Great quality and fast delivery,Positive
+593,It works fine,Neutral
+594,Excellent service and friendly staff,Positive
+595,Very satisfied with the purchase,Positive
+596,Very satisfied with the purchase,Positive
+597,Delivery was okay,Neutral
+598,Refund process was very slow,Negative
+599,Refund process was very slow,Negative
+600,Delivery was okay,Neutral
+601,It works fine,Neutral
+602,Amazing product highly recommended,Positive
+603,Amazing product highly recommended,Positive
+604,Bad customer support experience,Negative
+605,Bad customer support experience,Negative
+606,Amazing product highly recommended,Positive
+607,It works fine,Neutral
+608,Product received as expected,Neutral
+609,Very satisfied with the purchase,Positive
+610,Great quality and fast delivery,Positive
+611,Poor quality and delayed delivery,Negative
+612,Refund process was very slow,Negative
+613,Very disappointed with the product,Negative
+614,It works fine,Neutral
+615,Bad customer support experience,Negative
+616,Bad customer support experience,Negative
+617,Very satisfied with the purchase,Positive
+618,Excellent service and friendly staff,Positive
+619,It works fine,Neutral
+620,Excellent service and friendly staff,Positive
+621,The item matches the description,Neutral
+622,Very disappointed with the product,Negative
+623,Love this product will buy again,Positive
+624,Item arrived damaged,Negative
+625,Love this product will buy again,Positive
+626,Very satisfied with the purchase,Positive
+627,Item arrived damaged,Negative
+628,Great quality and fast delivery,Positive
+629,Very disappointed with the product,Negative
+630,Excellent service and friendly staff,Positive
+631,Poor quality and delayed delivery,Negative
+632,Great quality and fast delivery,Positive
+633,Amazing product highly recommended,Positive
+634,Poor quality and delayed delivery,Negative
+635,Bad customer support experience,Negative
+636,Refund process was very slow,Negative
+637,Very disappointed with the product,Negative
+638,Bad customer support experience,Negative
+639,Bad customer support experience,Negative
+640,Delivery was okay,Neutral
+641,Very satisfied with the purchase,Positive
+642,Love this product will buy again,Positive
+643,Love this product will buy again,Positive
+644,It works fine,Neutral
+645,Delivery was okay,Neutral
+646,Excellent service and friendly staff,Positive
+647,Product received as expected,Neutral
+648,It works fine,Neutral
+649,Refund process was very slow,Negative
+650,Love this product will buy again,Positive
+651,Average experience overall,Neutral
+652,Poor quality and delayed delivery,Negative
+653,Item arrived damaged,Negative
+654,It works fine,Neutral
+655,It works fine,Neutral
+656,Average experience overall,Neutral
+657,Amazing product highly recommended,Positive
+658,Love this product will buy again,Positive
+659,Amazing product highly recommended,Positive
+660,Amazing product highly recommended,Positive
+661,It works fine,Neutral
+662,Very satisfied with the purchase,Positive
+663,Item arrived damaged,Negative
+664,Excellent service and friendly staff,Positive
+665,Bad customer support experience,Negative
+666,Amazing product highly recommended,Positive
+667,Amazing product highly recommended,Positive
+668,Refund process was very slow,Negative
+669,Amazing product highly recommended,Positive
+670,Refund process was very slow,Negative
+671,Item arrived damaged,Negative
+672,Excellent service and friendly staff,Positive
+673,Great quality and fast delivery,Positive
+674,Amazing product highly recommended,Positive
+675,It works fine,Neutral
+676,Delivery was okay,Neutral
+677,Item arrived damaged,Negative
+678,Refund process was very slow,Negative
+679,Delivery was okay,Neutral
+680,Average experience overall,Neutral
+681,Poor quality and delayed delivery,Negative
+682,Item arrived damaged,Negative
+683,It works fine,Neutral
+684,Very disappointed with the product,Negative
+685,Amazing product highly recommended,Positive
+686,Love this product will buy again,Positive
+687,Amazing product highly recommended,Positive
+688,Poor quality and delayed delivery,Negative
+689,Amazing product highly recommended,Positive
+690,Bad customer support experience,Negative
+691,Very satisfied with the purchase,Positive
+692,Excellent service and friendly staff,Positive
+693,Refund process was very slow,Negative
+694,Average experience overall,Neutral
+695,Great quality and fast delivery,Positive
+696,Item arrived damaged,Negative
+697,Bad customer support experience,Negative
+698,It works fine,Neutral
+699,Very disappointed with the product,Negative
+700,Love this product will buy again,Positive
+701,Poor quality and delayed delivery,Negative
+702,Very satisfied with the purchase,Positive
+703,Amazing product highly recommended,Positive
+704,Item arrived damaged,Negative
+705,Love this product will buy again,Positive
+706,Great quality and fast delivery,Positive
+707,Bad customer support experience,Negative
+708,Amazing product highly recommended,Positive
+709,Love this product will buy again,Positive
+710,It works fine,Neutral
+711,Poor quality and delayed delivery,Negative
+712,Delivery was okay,Neutral
+713,Great quality and fast delivery,Positive
+714,Poor quality and delayed delivery,Negative
+715,Refund process was very slow,Negative
+716,Very satisfied with the purchase,Positive
+717,Love this product will buy again,Positive
+718,Product received as expected,Neutral
+719,Very disappointed with the product,Negative
+720,It works fine,Neutral
+721,Very disappointed with the product,Negative
+722,Very satisfied with the purchase,Positive
+723,Amazing product highly recommended,Positive
+724,Very disappointed with the product,Negative
+725,Love this product will buy again,Positive
+726,Refund process was very slow,Negative
+727,Delivery was okay,Neutral
+728,Amazing product highly recommended,Positive
+729,Love this product will buy again,Positive
+730,Very satisfied with the purchase,Positive
+731,Delivery was okay,Neutral
+732,Love this product will buy again,Positive
+733,Very satisfied with the purchase,Positive
+734,Very satisfied with the purchase,Positive
+735,Excellent service and friendly staff,Positive
+736,It works fine,Neutral
+737,Refund process was very slow,Negative
+738,Very disappointed with the product,Negative
+739,Item arrived damaged,Negative
+740,Very satisfied with the purchase,Positive
+741,Poor quality and delayed delivery,Negative
+742,Excellent service and friendly staff,Positive
+743,Average experience overall,Neutral
+744,Excellent service and friendly staff,Positive
+745,Refund process was very slow,Negative
+746,Excellent service and friendly staff,Positive
+747,Poor quality and delayed delivery,Negative
+748,The item matches the description,Neutral
+749,Product received as expected,Neutral
+750,Average experience overall,Neutral
+751,Excellent service and friendly staff,Positive
+752,Poor quality and delayed delivery,Negative
+753,Bad customer support experience,Negative
+754,Bad customer support experience,Negative
+755,Amazing product highly recommended,Positive
+756,Delivery was okay,Neutral
+757,Love this product will buy again,Positive
+758,Product received as expected,Neutral
+759,Amazing product highly recommended,Positive
+760,Bad customer support experience,Negative
+761,Bad customer support experience,Negative
+762,Product received as expected,Neutral
+763,Item arrived damaged,Negative
+764,Very satisfied with the purchase,Positive
+765,Amazing product highly recommended,Positive
+766,Love this product will buy again,Positive
+767,Love this product will buy again,Positive
+768,Poor quality and delayed delivery,Negative
+769,It works fine,Neutral
+770,It works fine,Neutral
+771,Amazing product highly recommended,Positive
+772,The item matches the description,Neutral
+773,Great quality and fast delivery,Positive
+774,Love this product will buy again,Positive
+775,Delivery was okay,Neutral
+776,Excellent service and friendly staff,Positive
+777,Delivery was okay,Neutral
+778,Great quality and fast delivery,Positive
+779,Great quality and fast delivery,Positive
+780,Refund process was very slow,Negative
+781,Excellent service and friendly staff,Positive
+782,Amazing product highly recommended,Positive
+783,Amazing product highly recommended,Positive
+784,Amazing product highly recommended,Positive
+785,Refund process was very slow,Negative
+786,Poor quality and delayed delivery,Negative
+787,Very disappointed with the product,Negative
+788,Product received as expected,Neutral
+789,Refund process was very slow,Negative
+790,The item matches the description,Neutral
+791,Very disappointed with the product,Negative
+792,Love this product will buy again,Positive
+793,Product received as expected,Neutral
+794,Bad customer support experience,Negative
+795,Bad customer support experience,Negative
+796,Refund process was very slow,Negative
+797,Very satisfied with the purchase,Positive
+798,Great quality and fast delivery,Positive
+799,Great quality and fast delivery,Positive
+800,It works fine,Neutral
+801,Great quality and fast delivery,Positive
+802,Very satisfied with the purchase,Positive
+803,Poor quality and delayed delivery,Negative
+804,Item arrived damaged,Negative
+805,Great quality and fast delivery,Positive
+806,Very disappointed with the product,Negative
+807,Amazing product highly recommended,Positive
+808,Poor quality and delayed delivery,Negative
+809,Excellent service and friendly staff,Positive
+810,Refund process was very slow,Negative
+811,Average experience overall,Neutral
+812,Love this product will buy again,Positive
+813,Product received as expected,Neutral
+814,Amazing product highly recommended,Positive
+815,Great quality and fast delivery,Positive
+816,Excellent service and friendly staff,Positive
+817,Item arrived damaged,Negative
+818,Item arrived damaged,Negative
+819,Item arrived damaged,Negative
+820,Very satisfied with the purchase,Positive
+821,The item matches the description,Neutral
+822,Delivery was okay,Neutral
+823,Great quality and fast delivery,Positive
+824,Excellent service and friendly staff,Positive
+825,Very disappointed with the product,Negative
+826,Poor quality and delayed delivery,Negative
+827,Very satisfied with the purchase,Positive
+828,Average experience overall,Neutral
+829,Amazing product highly recommended,Positive
+830,Average experience overall,Neutral
+831,Great quality and fast delivery,Positive
+832,Average experience overall,Neutral
+833,Delivery was okay,Neutral
+834,Very satisfied with the purchase,Positive
+835,Love this product will buy again,Positive
+836,Excellent service and friendly staff,Positive
+837,Excellent service and friendly staff,Positive
+838,Delivery was okay,Neutral
+839,Average experience overall,Neutral
+840,Love this product will buy again,Positive
+841,Amazing product highly recommended,Positive
+842,Amazing product highly recommended,Positive
+843,Love this product will buy again,Positive
+844,Excellent service and friendly staff,Positive
+845,Average experience overall,Neutral
+846,Delivery was okay,Neutral
+847,Great quality and fast delivery,Positive
+848,Excellent service and friendly staff,Positive
+849,Excellent service and friendly staff,Positive
+850,Bad customer support experience,Negative
+851,The item matches the description,Neutral
+852,Poor quality and delayed delivery,Negative
+853,Love this product will buy again,Positive
+854,Very disappointed with the product,Negative
+855,Great quality and fast delivery,Positive
+856,Great quality and fast delivery,Positive
+857,Great quality and fast delivery,Positive
+858,Very satisfied with the purchase,Positive
+859,Bad customer support experience,Negative
+860,Refund process was very slow,Negative
+861,It works fine,Neutral
+862,Excellent service and friendly staff,Positive
+863,Great quality and fast delivery,Positive
+864,Amazing product highly recommended,Positive
+865,The item matches the description,Neutral
+866,Love this product will buy again,Positive
+867,Item arrived damaged,Negative
+868,The item matches the description,Neutral
+869,Amazing product highly recommended,Positive
+870,Poor quality and delayed delivery,Negative
+871,Item arrived damaged,Negative
+872,Bad customer support experience,Negative
+873,Excellent service and friendly staff,Positive
+874,The item matches the description,Neutral
+875,Very satisfied with the purchase,Positive
+876,Product received as expected,Neutral
+877,Excellent service and friendly staff,Positive
+878,Excellent service and friendly staff,Positive
+879,Very satisfied with the purchase,Positive
+880,Great quality and fast delivery,Positive
+881,Refund process was very slow,Negative
+882,Poor quality and delayed delivery,Negative
+883,Excellent service and friendly staff,Positive
+884,Love this product will buy again,Positive
+885,Item arrived damaged,Negative
+886,Great quality and fast delivery,Positive
+887,Excellent service and friendly staff,Positive
+888,Great quality and fast delivery,Positive
+889,Love this product will buy again,Positive
+890,The item matches the description,Neutral
+891,Refund process was very slow,Negative
+892,Great quality and fast delivery,Positive
+893,Amazing product highly recommended,Positive
+894,Love this product will buy again,Positive
+895,Product received as expected,Neutral
+896,Excellent service and friendly staff,Positive
+897,Love this product will buy again,Positive
+898,Amazing product highly recommended,Positive
+899,Very disappointed with the product,Negative
+900,Great quality and fast delivery,Positive
+901,Refund process was very slow,Negative
+902,Very satisfied with the purchase,Positive
+903,Amazing product highly recommended,Positive
+904,Delivery was okay,Neutral
+905,Item arrived damaged,Negative
+906,Very satisfied with the purchase,Positive
+907,Very disappointed with the product,Negative
+908,The item matches the description,Neutral
+909,Amazing product highly recommended,Positive
+910,It works fine,Neutral
+911,Love this product will buy again,Positive
+912,Refund process was very slow,Negative
+913,Very satisfied with the purchase,Positive
+914,Bad customer support experience,Negative
+915,Delivery was okay,Neutral
+916,Very satisfied with the purchase,Positive
+917,Very disappointed with the product,Negative
+918,Item arrived damaged,Negative
+919,Love this product will buy again,Positive
+920,Delivery was okay,Neutral
+921,Average experience overall,Neutral
+922,Amazing product highly recommended,Positive
+923,Excellent service and friendly staff,Positive
+924,Love this product will buy again,Positive
+925,Very satisfied with the purchase,Positive
+926,Love this product will buy again,Positive
+927,Very disappointed with the product,Negative
+928,Very satisfied with the purchase,Positive
+929,Excellent service and friendly staff,Positive
+930,Average experience overall,Neutral
+931,Refund process was very slow,Negative
+932,It works fine,Neutral
+933,Very disappointed with the product,Negative
+934,Great quality and fast delivery,Positive
+935,Bad customer support experience,Negative
+936,Amazing product highly recommended,Positive
+937,Amazing product highly recommended,Positive
+938,Delivery was okay,Neutral
+939,Amazing product highly recommended,Positive
+940,Very disappointed with the product,Negative
+941,Very satisfied with the purchase,Positive
+942,Great quality and fast delivery,Positive
+943,Amazing product highly recommended,Positive
+944,Average experience overall,Neutral
+945,Refund process was very slow,Negative
+946,Great quality and fast delivery,Positive
+947,Love this product will buy again,Positive
+948,Poor quality and delayed delivery,Negative
+949,Average experience overall,Neutral
+950,Excellent service and friendly staff,Positive
+951,Great quality and fast delivery,Positive
+952,Amazing product highly recommended,Positive
+953,Very disappointed with the product,Negative
+954,Amazing product highly recommended,Positive
+955,Love this product will buy again,Positive
+956,Product received as expected,Neutral
+957,Excellent service and friendly staff,Positive
+958,Average experience overall,Neutral
+959,It works fine,Neutral
+960,Great quality and fast delivery,Positive
+961,Amazing product highly recommended,Positive
+962,Excellent service and friendly staff,Positive
+963,Product received as expected,Neutral
+964,Average experience overall,Neutral
+965,Refund process was very slow,Negative
+966,Very disappointed with the product,Negative
+967,Amazing product highly recommended,Positive
+968,Bad customer support experience,Negative
+969,Amazing product highly recommended,Positive
+970,The item matches the description,Neutral
+971,Very satisfied with the purchase,Positive
+972,The item matches the description,Neutral
+973,Very satisfied with the purchase,Positive
+974,Refund process was very slow,Negative
+975,Refund process was very slow,Negative
+976,Excellent service and friendly staff,Positive
+977,Bad customer support experience,Negative
+978,Refund process was very slow,Negative
+979,Bad customer support experience,Negative
+980,Bad customer support experience,Negative
+981,Excellent service and friendly staff,Positive
+982,Love this product will buy again,Positive
+983,Delivery was okay,Neutral
+984,Poor quality and delayed delivery,Negative
+985,Very satisfied with the purchase,Positive
+986,Excellent service and friendly staff,Positive
+987,Very satisfied with the purchase,Positive
+988,Item arrived damaged,Negative
+989,Refund process was very slow,Negative
+990,Love this product will buy again,Positive
+991,Very satisfied with the purchase,Positive
+992,Delivery was okay,Neutral
+993,Amazing product highly recommended,Positive
+994,Very satisfied with the purchase,Positive
+995,Poor quality and delayed delivery,Negative
+996,Very satisfied with the purchase,Positive
+997,Love this product will buy again,Positive
+998,Amazing product highly recommended,Positive
+999,Excellent service and friendly staff,Positive
+1000,Very satisfied with the purchase,Positive

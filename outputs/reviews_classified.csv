@@ -1,0 +1,1001 @@
+review_id,review_comment,true_sentiment,cleaned_text,vader_score,vader_sentiment,fasttext_line
+1,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+2,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+3,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+4,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+5,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+6,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+7,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+8,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+9,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+10,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+11,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+12,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+13,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+14,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+15,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+16,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+17,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+18,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+19,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+20,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+21,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+22,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+23,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+24,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+25,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+26,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+27,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+28,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+29,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+30,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+31,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+32,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+33,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+34,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+35,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+36,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+37,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+38,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+39,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+40,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+41,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+42,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+43,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+44,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+45,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+46,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+47,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+48,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+49,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+50,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+51,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+52,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+53,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+54,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+55,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+56,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+57,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+58,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+59,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+60,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+61,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+62,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+63,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+64,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+65,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+66,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+67,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+68,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+69,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+70,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+71,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+72,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+73,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+74,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+75,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+76,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+77,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+78,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+79,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+80,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+81,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+82,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+83,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+84,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+85,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+86,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+87,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+88,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+89,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+90,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+91,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+92,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+93,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+94,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+95,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+96,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+97,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+98,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+99,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+100,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+101,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+102,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+103,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+104,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+105,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+106,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+107,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+108,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+109,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+110,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+111,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+112,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+113,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+114,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+115,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+116,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+117,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+118,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+119,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+120,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+121,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+122,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+123,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+124,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+125,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+126,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+127,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+128,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+129,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+130,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+131,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+132,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+133,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+134,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+135,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+136,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+137,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+138,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+139,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+140,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+141,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+142,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+143,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+144,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+145,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+146,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+147,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+148,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+149,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+150,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+151,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+152,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+153,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+154,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+155,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+156,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+157,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+158,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+159,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+160,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+161,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+162,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+163,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+164,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+165,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+166,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+167,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+168,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+169,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+170,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+171,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+172,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+173,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+174,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+175,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+176,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+177,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+178,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+179,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+180,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+181,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+182,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+183,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+184,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+185,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+186,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+187,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+188,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+189,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+190,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+191,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+192,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+193,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+194,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+195,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+196,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+197,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+198,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+199,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+200,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+201,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+202,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+203,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+204,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+205,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+206,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+207,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+208,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+209,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+210,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+211,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+212,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+213,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+214,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+215,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+216,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+217,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+218,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+219,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+220,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+221,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+222,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+223,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+224,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+225,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+226,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+227,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+228,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+229,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+230,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+231,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+232,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+233,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+234,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+235,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+236,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+237,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+238,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+239,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+240,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+241,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+242,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+243,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+244,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+245,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+246,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+247,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+248,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+249,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+250,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+251,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+252,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+253,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+254,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+255,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+256,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+257,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+258,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+259,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+260,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+261,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+262,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+263,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+264,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+265,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+266,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+267,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+268,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+269,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+270,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+271,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+272,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+273,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+274,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+275,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+276,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+277,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+278,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+279,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+280,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+281,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+282,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+283,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+284,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+285,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+286,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+287,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+288,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+289,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+290,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+291,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+292,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+293,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+294,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+295,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+296,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+297,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+298,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+299,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+300,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+301,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+302,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+303,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+304,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+305,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+306,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+307,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+308,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+309,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+310,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+311,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+312,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+313,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+314,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+315,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+316,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+317,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+318,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+319,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+320,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+321,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+322,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+323,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+324,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+325,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+326,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+327,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+328,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+329,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+330,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+331,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+332,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+333,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+334,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+335,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+336,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+337,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+338,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+339,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+340,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+341,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+342,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+343,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+344,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+345,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+346,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+347,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+348,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+349,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+350,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+351,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+352,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+353,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+354,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+355,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+356,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+357,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+358,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+359,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+360,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+361,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+362,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+363,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+364,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+365,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+366,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+367,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+368,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+369,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+370,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+371,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+372,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+373,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+374,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+375,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+376,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+377,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+378,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+379,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+380,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+381,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+382,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+383,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+384,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+385,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+386,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+387,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+388,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+389,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+390,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+391,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+392,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+393,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+394,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+395,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+396,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+397,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+398,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+399,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+400,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+401,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+402,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+403,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+404,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+405,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+406,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+407,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+408,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+409,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+410,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+411,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+412,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+413,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+414,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+415,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+416,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+417,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+418,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+419,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+420,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+421,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+422,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+423,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+424,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+425,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+426,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+427,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+428,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+429,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+430,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+431,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+432,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+433,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+434,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+435,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+436,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+437,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+438,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+439,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+440,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+441,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+442,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+443,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+444,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+445,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+446,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+447,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+448,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+449,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+450,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+451,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+452,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+453,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+454,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+455,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+456,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+457,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+458,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+459,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+460,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+461,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+462,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+463,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+464,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+465,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+466,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+467,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+468,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+469,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+470,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+471,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+472,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+473,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+474,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+475,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+476,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+477,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+478,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+479,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+480,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+481,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+482,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+483,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+484,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+485,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+486,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+487,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+488,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+489,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+490,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+491,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+492,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+493,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+494,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+495,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+496,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+497,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+498,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+499,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+500,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+501,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+502,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+503,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+504,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+505,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+506,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+507,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+508,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+509,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+510,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+511,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+512,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+513,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+514,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+515,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+516,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+517,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+518,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+519,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+520,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+521,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+522,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+523,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+524,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+525,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+526,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+527,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+528,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+529,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+530,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+531,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+532,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+533,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+534,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+535,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+536,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+537,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+538,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+539,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+540,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+541,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+542,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+543,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+544,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+545,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+546,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+547,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+548,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+549,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+550,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+551,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+552,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+553,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+554,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+555,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+556,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+557,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+558,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+559,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+560,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+561,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+562,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+563,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+564,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+565,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+566,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+567,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+568,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+569,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+570,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+571,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+572,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+573,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+574,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+575,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+576,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+577,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+578,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+579,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+580,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+581,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+582,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+583,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+584,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+585,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+586,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+587,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+588,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+589,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+590,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+591,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+592,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+593,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+594,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+595,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+596,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+597,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+598,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+599,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+600,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+601,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+602,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+603,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+604,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+605,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+606,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+607,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+608,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+609,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+610,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+611,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+612,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+613,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+614,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+615,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+616,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+617,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+618,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+619,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+620,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+621,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+622,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+623,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+624,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+625,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+626,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+627,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+628,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+629,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+630,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+631,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+632,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+633,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+634,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+635,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+636,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+637,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+638,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+639,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+640,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+641,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+642,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+643,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+644,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+645,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+646,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+647,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+648,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+649,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+650,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+651,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+652,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+653,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+654,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+655,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+656,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+657,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+658,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+659,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+660,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+661,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+662,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+663,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+664,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+665,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+666,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+667,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+668,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+669,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+670,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+671,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+672,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+673,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+674,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+675,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+676,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+677,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+678,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+679,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+680,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+681,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+682,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+683,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+684,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+685,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+686,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+687,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+688,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+689,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+690,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+691,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+692,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+693,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+694,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+695,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+696,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+697,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+698,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+699,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+700,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+701,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+702,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+703,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+704,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+705,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+706,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+707,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+708,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+709,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+710,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+711,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+712,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+713,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+714,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+715,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+716,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+717,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+718,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+719,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+720,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+721,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+722,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+723,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+724,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+725,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+726,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+727,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+728,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+729,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+730,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+731,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+732,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+733,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+734,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+735,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+736,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+737,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+738,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+739,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+740,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+741,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+742,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+743,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+744,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+745,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+746,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+747,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+748,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+749,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+750,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+751,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+752,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+753,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+754,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+755,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+756,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+757,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+758,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+759,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+760,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+761,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+762,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+763,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+764,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+765,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+766,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+767,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+768,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+769,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+770,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+771,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+772,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+773,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+774,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+775,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+776,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+777,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+778,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+779,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+780,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+781,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+782,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+783,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+784,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+785,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+786,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+787,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+788,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+789,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+790,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+791,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+792,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+793,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+794,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+795,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+796,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+797,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+798,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+799,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+800,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+801,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+802,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+803,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+804,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+805,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+806,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+807,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+808,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+809,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+810,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+811,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+812,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+813,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+814,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+815,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+816,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+817,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+818,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+819,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+820,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+821,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+822,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+823,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+824,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+825,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+826,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+827,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+828,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+829,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+830,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+831,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+832,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+833,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+834,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+835,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+836,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+837,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+838,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+839,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+840,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+841,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+842,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+843,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+844,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+845,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+846,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+847,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+848,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+849,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+850,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+851,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+852,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+853,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+854,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+855,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+856,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+857,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+858,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+859,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+860,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+861,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+862,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+863,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+864,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+865,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+866,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+867,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+868,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+869,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+870,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+871,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+872,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+873,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+874,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+875,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+876,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+877,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+878,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+879,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+880,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+881,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+882,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+883,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+884,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+885,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+886,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+887,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+888,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+889,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+890,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+891,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+892,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+893,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+894,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+895,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+896,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+897,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+898,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+899,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+900,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+901,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+902,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+903,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+904,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+905,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+906,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+907,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+908,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+909,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+910,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+911,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+912,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+913,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+914,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+915,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+916,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+917,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+918,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+919,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+920,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+921,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+922,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+923,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+924,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+925,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+926,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+927,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+928,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+929,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+930,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+931,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+932,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+933,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+934,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+935,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+936,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+937,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+938,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+939,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+940,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+941,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+942,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+943,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+944,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+945,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+946,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+947,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+948,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+949,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+950,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+951,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+952,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+953,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+954,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+955,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+956,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+957,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+958,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+959,It works fine,Neutral,it works fine,0.2023,Positive,__label__Neutral it works fine
+960,Great quality and fast delivery,Positive,great quality and fast delivery,0.6249,Positive,__label__Positive great quality and fast delivery
+961,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+962,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+963,Product received as expected,Neutral,product received as expected,0.0,Neutral,__label__Neutral product received as expected
+964,Average experience overall,Neutral,average experience overall,0.0,Neutral,__label__Neutral average experience overall
+965,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+966,Very disappointed with the product,Negative,very disappointed with the product,-0.5256,Negative,__label__Negative very disappointed with the product
+967,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+968,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+969,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+970,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+971,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+972,The item matches the description,Neutral,the item matches the description,0.0,Neutral,__label__Neutral the item matches the description
+973,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+974,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+975,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+976,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+977,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+978,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+979,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+980,Bad customer support experience,Negative,bad customer support experience,-0.2023,Negative,__label__Negative bad customer support experience
+981,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+982,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+983,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+984,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+985,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+986,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+987,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+988,Item arrived damaged,Negative,item arrived damaged,-0.4404,Negative,__label__Negative item arrived damaged
+989,Refund process was very slow,Negative,refund process was very slow,0.0,Neutral,__label__Negative refund process was very slow
+990,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+991,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+992,Delivery was okay,Neutral,delivery was okay,0.2263,Positive,__label__Neutral delivery was okay
+993,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+994,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+995,Poor quality and delayed delivery,Negative,poor quality and delayed delivery,-0.6124,Negative,__label__Negative poor quality and delayed delivery
+996,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase
+997,Love this product will buy again,Positive,love this product will buy again,0.6369,Positive,__label__Positive love this product will buy again
+998,Amazing product highly recommended,Positive,amazing product highly recommended,0.7089,Positive,__label__Positive amazing product highly recommended
+999,Excellent service and friendly staff,Positive,excellent service and friendly staff,0.7845,Positive,__label__Positive excellent service and friendly staff
+1000,Very satisfied with the purchase,Positive,very satisfied with the purchase,0.4754,Positive,__label__Positive very satisfied with the purchase

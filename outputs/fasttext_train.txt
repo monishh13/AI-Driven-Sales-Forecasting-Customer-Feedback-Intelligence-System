@@ -1,0 +1,1000 @@
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Neutral product received as expected
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Neutral it works fine
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Negative bad customer support experience
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Positive love this product will buy again
+__label__Negative very disappointed with the product
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Negative refund process was very slow
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Neutral product received as expected
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral product received as expected
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Negative refund process was very slow
+__label__Negative bad customer support experience
+__label__Negative poor quality and delayed delivery
+__label__Neutral delivery was okay
+__label__Neutral product received as expected
+__label__Negative refund process was very slow
+__label__Neutral product received as expected
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Neutral the item matches the description
+__label__Negative very disappointed with the product
+__label__Neutral the item matches the description
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Neutral product received as expected
+__label__Positive great quality and fast delivery
+__label__Negative poor quality and delayed delivery
+__label__Positive love this product will buy again
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Neutral delivery was okay
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Neutral product received as expected
+__label__Neutral it works fine
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Neutral the item matches the description
+__label__Neutral the item matches the description
+__label__Negative bad customer support experience
+__label__Neutral product received as expected
+__label__Neutral the item matches the description
+__label__Negative bad customer support experience
+__label__Positive very satisfied with the purchase
+__label__Neutral product received as expected
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Neutral it works fine
+__label__Positive excellent service and friendly staff
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Negative item arrived damaged
+__label__Neutral it works fine
+__label__Neutral product received as expected
+__label__Neutral it works fine
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Neutral it works fine
+__label__Neutral it works fine
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Neutral delivery was okay
+__label__Negative very disappointed with the product
+__label__Neutral product received as expected
+__label__Neutral average experience overall
+__label__Neutral delivery was okay
+__label__Neutral average experience overall
+__label__Negative item arrived damaged
+__label__Positive amazing product highly recommended
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Neutral it works fine
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Neutral the item matches the description
+__label__Neutral average experience overall
+__label__Negative refund process was very slow
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Negative refund process was very slow
+__label__Positive excellent service and friendly staff
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Neutral it works fine
+__label__Neutral average experience overall
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Negative refund process was very slow
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Neutral delivery was okay
+__label__Negative poor quality and delayed delivery
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Neutral average experience overall
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive excellent service and friendly staff
+__label__Neutral delivery was okay
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Neutral it works fine
+__label__Neutral it works fine
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Negative refund process was very slow
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Neutral product received as expected
+__label__Negative very disappointed with the product
+__label__Negative bad customer support experience
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Neutral delivery was okay
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Neutral the item matches the description
+__label__Neutral product received as expected
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Negative very disappointed with the product
+__label__Negative bad customer support experience
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Neutral the item matches the description
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Neutral product received as expected
+__label__Neutral the item matches the description
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Negative bad customer support experience
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Neutral delivery was okay
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Negative refund process was very slow
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Neutral delivery was okay
+__label__Positive amazing product highly recommended
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Negative very disappointed with the product
+__label__Neutral the item matches the description
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Neutral it works fine
+__label__Positive amazing product highly recommended
+__label__Neutral product received as expected
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Neutral the item matches the description
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Negative bad customer support experience
+__label__Positive excellent service and friendly staff
+__label__Neutral the item matches the description
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Neutral product received as expected
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Negative very disappointed with the product
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Neutral it works fine
+__label__Neutral the item matches the description
+__label__Neutral the item matches the description
+__label__Negative very disappointed with the product
+__label__Negative refund process was very slow
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Positive very satisfied with the purchase
+__label__Neutral delivery was okay
+__label__Neutral it works fine
+__label__Neutral product received as expected
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Neutral delivery was okay
+__label__Neutral the item matches the description
+__label__Neutral average experience overall
+__label__Negative item arrived damaged
+__label__Negative very disappointed with the product
+__label__Neutral the item matches the description
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Neutral delivery was okay
+__label__Positive excellent service and friendly staff
+__label__Neutral delivery was okay
+__label__Neutral average experience overall
+__label__Neutral the item matches the description
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Neutral the item matches the description
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral product received as expected
+__label__Positive love this product will buy again
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Neutral delivery was okay
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Neutral product received as expected
+__label__Positive love this product will buy again
+__label__Neutral average experience overall
+__label__Neutral product received as expected
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Neutral the item matches the description
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Neutral it works fine
+__label__Positive excellent service and friendly staff
+__label__Neutral the item matches the description
+__label__Neutral average experience overall
+__label__Neutral average experience overall
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Negative item arrived damaged
+__label__Positive amazing product highly recommended
+__label__Negative item arrived damaged
+__label__Positive amazing product highly recommended
+__label__Neutral the item matches the description
+__label__Negative refund process was very slow
+__label__Neutral average experience overall
+__label__Neutral average experience overall
+__label__Neutral the item matches the description
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Negative bad customer support experience
+__label__Negative refund process was very slow
+__label__Negative refund process was very slow
+__label__Positive amazing product highly recommended
+__label__Neutral delivery was okay
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Neutral average experience overall
+__label__Positive love this product will buy again
+__label__Negative item arrived damaged
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral delivery was okay
+__label__Neutral the item matches the description
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Negative item arrived damaged
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Negative poor quality and delayed delivery
+__label__Negative bad customer support experience
+__label__Negative item arrived damaged
+__label__Neutral product received as expected
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Neutral average experience overall
+__label__Negative item arrived damaged
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Negative refund process was very slow
+__label__Neutral product received as expected
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Positive excellent service and friendly staff
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Negative refund process was very slow
+__label__Neutral product received as expected
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Neutral it works fine
+__label__Neutral it works fine
+__label__Neutral product received as expected
+__label__Positive very satisfied with the purchase
+__label__Negative very disappointed with the product
+__label__Neutral it works fine
+__label__Negative item arrived damaged
+__label__Neutral it works fine
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Positive amazing product highly recommended
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Neutral delivery was okay
+__label__Negative item arrived damaged
+__label__Neutral the item matches the description
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Negative very disappointed with the product
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Negative very disappointed with the product
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Negative very disappointed with the product
+__label__Positive excellent service and friendly staff
+__label__Negative very disappointed with the product
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Negative bad customer support experience
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Negative item arrived damaged
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Negative refund process was very slow
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Negative item arrived damaged
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Neutral product received as expected
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Positive amazing product highly recommended
+__label__Neutral the item matches the description
+__label__Neutral delivery was okay
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Negative very disappointed with the product
+__label__Positive excellent service and friendly staff
+__label__Neutral it works fine
+__label__Negative refund process was very slow
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Negative item arrived damaged
+__label__Neutral product received as expected
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Neutral product received as expected
+__label__Neutral product received as expected
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Negative very disappointed with the product
+__label__Negative refund process was very slow
+__label__Neutral average experience overall
+__label__Neutral it works fine
+__label__Negative refund process was very slow
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Positive great quality and fast delivery
+__label__Neutral average experience overall
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Neutral delivery was okay
+__label__Negative item arrived damaged
+__label__Neutral delivery was okay
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Neutral product received as expected
+__label__Neutral the item matches the description
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Neutral product received as expected
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Neutral product received as expected
+__label__Neutral average experience overall
+__label__Neutral delivery was okay
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Negative bad customer support experience
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Negative item arrived damaged
+__label__Positive excellent service and friendly staff
+__label__Negative item arrived damaged
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive very satisfied with the purchase
+__label__Negative item arrived damaged
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Neutral average experience overall
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Positive great quality and fast delivery
+__label__Negative very disappointed with the product
+__label__Negative refund process was very slow
+__label__Neutral product received as expected
+__label__Neutral it works fine
+__label__Negative refund process was very slow
+__label__Negative very disappointed with the product
+__label__Positive great quality and fast delivery
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Neutral it works fine
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Neutral delivery was okay
+__label__Negative refund process was very slow
+__label__Negative refund process was very slow
+__label__Neutral delivery was okay
+__label__Neutral it works fine
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Neutral product received as expected
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Negative poor quality and delayed delivery
+__label__Negative refund process was very slow
+__label__Negative very disappointed with the product
+__label__Neutral it works fine
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Positive very satisfied with the purchase
+__label__Positive excellent service and friendly staff
+__label__Neutral it works fine
+__label__Positive excellent service and friendly staff
+__label__Neutral the item matches the description
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Negative item arrived damaged
+__label__Positive great quality and fast delivery
+__label__Negative very disappointed with the product
+__label__Positive excellent service and friendly staff
+__label__Negative poor quality and delayed delivery
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Negative poor quality and delayed delivery
+__label__Negative bad customer support experience
+__label__Negative refund process was very slow
+__label__Negative very disappointed with the product
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Neutral delivery was okay
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Neutral it works fine
+__label__Neutral delivery was okay
+__label__Positive excellent service and friendly staff
+__label__Neutral product received as expected
+__label__Neutral it works fine
+__label__Negative refund process was very slow
+__label__Positive love this product will buy again
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Neutral it works fine
+__label__Neutral it works fine
+__label__Neutral average experience overall
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Positive very satisfied with the purchase
+__label__Negative item arrived damaged
+__label__Positive excellent service and friendly staff
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Negative item arrived damaged
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Neutral delivery was okay
+__label__Negative item arrived damaged
+__label__Negative refund process was very slow
+__label__Neutral delivery was okay
+__label__Neutral average experience overall
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Negative poor quality and delayed delivery
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Positive very satisfied with the purchase
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Neutral average experience overall
+__label__Positive great quality and fast delivery
+__label__Negative item arrived damaged
+__label__Negative bad customer support experience
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Positive great quality and fast delivery
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Neutral it works fine
+__label__Negative poor quality and delayed delivery
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Negative poor quality and delayed delivery
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Negative very disappointed with the product
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Neutral delivery was okay
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Neutral delivery was okay
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Positive very satisfied with the purchase
+__label__Positive excellent service and friendly staff
+__label__Neutral it works fine
+__label__Negative refund process was very slow
+__label__Negative very disappointed with the product
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Positive excellent service and friendly staff
+__label__Negative poor quality and delayed delivery
+__label__Neutral the item matches the description
+__label__Neutral product received as expected
+__label__Neutral average experience overall
+__label__Positive excellent service and friendly staff
+__label__Negative poor quality and delayed delivery
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Neutral delivery was okay
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Neutral product received as expected
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive love this product will buy again
+__label__Negative poor quality and delayed delivery
+__label__Neutral it works fine
+__label__Neutral it works fine
+__label__Positive amazing product highly recommended
+__label__Neutral the item matches the description
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Neutral delivery was okay
+__label__Positive excellent service and friendly staff
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Positive great quality and fast delivery
+__label__Negative refund process was very slow
+__label__Positive excellent service and friendly staff
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Negative refund process was very slow
+__label__Negative poor quality and delayed delivery
+__label__Negative very disappointed with the product
+__label__Neutral product received as expected
+__label__Negative refund process was very slow
+__label__Neutral the item matches the description
+__label__Negative very disappointed with the product
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Positive great quality and fast delivery
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Positive great quality and fast delivery
+__label__Negative very disappointed with the product
+__label__Positive amazing product highly recommended
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Negative refund process was very slow
+__label__Neutral average experience overall
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Positive amazing product highly recommended
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Negative item arrived damaged
+__label__Negative item arrived damaged
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Neutral the item matches the description
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Negative very disappointed with the product
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Neutral average experience overall
+__label__Positive amazing product highly recommended
+__label__Neutral average experience overall
+__label__Positive great quality and fast delivery
+__label__Neutral average experience overall
+__label__Neutral delivery was okay
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Neutral delivery was okay
+__label__Neutral average experience overall
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Neutral delivery was okay
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Negative bad customer support experience
+__label__Neutral the item matches the description
+__label__Negative poor quality and delayed delivery
+__label__Positive love this product will buy again
+__label__Negative very disappointed with the product
+__label__Positive great quality and fast delivery
+__label__Positive great quality and fast delivery
+__label__Positive great quality and fast delivery
+__label__Positive very satisfied with the purchase
+__label__Negative bad customer support experience
+__label__Negative refund process was very slow
+__label__Neutral it works fine
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral the item matches the description
+__label__Positive love this product will buy again
+__label__Negative item arrived damaged
+__label__Neutral the item matches the description
+__label__Positive amazing product highly recommended
+__label__Negative poor quality and delayed delivery
+__label__Negative item arrived damaged
+__label__Negative bad customer support experience
+__label__Positive excellent service and friendly staff
+__label__Neutral the item matches the description
+__label__Positive very satisfied with the purchase
+__label__Neutral product received as expected
+__label__Positive excellent service and friendly staff
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Negative refund process was very slow
+__label__Negative poor quality and delayed delivery
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Negative item arrived damaged
+__label__Positive great quality and fast delivery
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Neutral the item matches the description
+__label__Negative refund process was very slow
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive great quality and fast delivery
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Positive amazing product highly recommended
+__label__Neutral delivery was okay
+__label__Negative item arrived damaged
+__label__Positive very satisfied with the purchase
+__label__Negative very disappointed with the product
+__label__Neutral the item matches the description
+__label__Positive amazing product highly recommended
+__label__Neutral it works fine
+__label__Positive love this product will buy again
+__label__Negative refund process was very slow
+__label__Positive very satisfied with the purchase
+__label__Negative bad customer support experience
+__label__Neutral delivery was okay
+__label__Positive very satisfied with the purchase
+__label__Negative very disappointed with the product
+__label__Negative item arrived damaged
+__label__Positive love this product will buy again
+__label__Neutral delivery was okay
+__label__Neutral average experience overall
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Negative refund process was very slow
+__label__Neutral it works fine
+__label__Negative very disappointed with the product
+__label__Positive great quality and fast delivery
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Positive amazing product highly recommended
+__label__Neutral delivery was okay
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive very satisfied with the purchase
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Neutral average experience overall
+__label__Negative refund process was very slow
+__label__Positive great quality and fast delivery
+__label__Positive love this product will buy again
+__label__Negative poor quality and delayed delivery
+__label__Neutral average experience overall
+__label__Positive excellent service and friendly staff
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Negative very disappointed with the product
+__label__Positive amazing product highly recommended
+__label__Positive love this product will buy again
+__label__Neutral product received as expected
+__label__Positive excellent service and friendly staff
+__label__Neutral average experience overall
+__label__Neutral it works fine
+__label__Positive great quality and fast delivery
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Neutral product received as expected
+__label__Neutral average experience overall
+__label__Negative refund process was very slow
+__label__Negative very disappointed with the product
+__label__Positive amazing product highly recommended
+__label__Negative bad customer support experience
+__label__Positive amazing product highly recommended
+__label__Neutral the item matches the description
+__label__Positive very satisfied with the purchase
+__label__Neutral the item matches the description
+__label__Positive very satisfied with the purchase
+__label__Negative refund process was very slow
+__label__Negative refund process was very slow
+__label__Positive excellent service and friendly staff
+__label__Negative bad customer support experience
+__label__Negative refund process was very slow
+__label__Negative bad customer support experience
+__label__Negative bad customer support experience
+__label__Positive excellent service and friendly staff
+__label__Positive love this product will buy again
+__label__Neutral delivery was okay
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
+__label__Negative item arrived damaged
+__label__Negative refund process was very slow
+__label__Positive love this product will buy again
+__label__Positive very satisfied with the purchase
+__label__Neutral delivery was okay
+__label__Positive amazing product highly recommended
+__label__Positive very satisfied with the purchase
+__label__Negative poor quality and delayed delivery
+__label__Positive very satisfied with the purchase
+__label__Positive love this product will buy again
+__label__Positive amazing product highly recommended
+__label__Positive excellent service and friendly staff
+__label__Positive very satisfied with the purchase
